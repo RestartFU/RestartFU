@@ -1,1 +1,1 @@
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=RestartFU&hide_title=true&langs_count=10&exclude_repo=dotfiles&hide=Roff,Makefile,Dockerfile&layout=compact&theme=monokai)](https://github.com/RestartFU) 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=restartFU&hide_title=true&langs_count=10&exclude_repo=dotfiles&hide=Roff,Makefile,Dockerfile&layout=compact&theme=monokai)](https://github.com/RestartFU) 
