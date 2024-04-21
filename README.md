@@ -1,5 +1,5 @@
 # Live Projects
-<a href=https://decryptmypack.com target="_blank">![img](https://github.com/RestartFU/RestartFU/assets/45609733/57085dae-9644-41a5-89df-0510e21cec6a)</a>
+<a href=https://decryptmypack.com onclick="window.open('anotherpage.html', '_blank');" >![img](https://github.com/RestartFU/RestartFU/assets/45609733/57085dae-9644-41a5-89df-0510e21cec6a)</a>
 
 ## OS:
 
