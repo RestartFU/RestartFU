@@ -45,4 +45,6 @@
 [![Chocolatey](https://img.shields.io/badge/Chocolatey-80B5E3?logo=chocolatey&logoColor=fff)](#)
 [[![npm](https://img.shields.io/badge/npm-CB3837?logo=npm&logoColor=fff)](#)
 
+# Stats
+
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=RestartFU&hide_title=true&langs_count=10&exclude_repo=dotfiles&hide=Roff,Makefile,Dockerfile&layout=compact&theme=monokai)](https://github.com/RestartFU) 
