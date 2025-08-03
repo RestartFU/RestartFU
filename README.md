@@ -14,6 +14,6 @@ I specialize in:
 
 ✅ Crypto/blockchain integration – Wallets, nodes, signatures, etc.
 
-I deliver fast, communicate clearly. If you have a backend bottleneck or need a Go specialist — I can help.
+I deliver fast and communicate clearly. If you have a backend bottleneck or need a Go specialist — I can help.
 
 📩 email me at [contact@restartfu.com] to get started.
