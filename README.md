@@ -16,4 +16,4 @@ I specialize in:
 
 I deliver fast and communicate clearly. If you have a backend bottleneck or need a Go specialist — I can help.
 
-📩 email me at [contact@restartfu.com] to get started.
+📩 email me at contact@restartfu.com to get started.
